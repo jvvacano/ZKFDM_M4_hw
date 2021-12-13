@@ -1,4 +1,4 @@
-# Git-Repo für die "Hausaufgaben"
+# Git-Repo für die „Hausaufgaben“
 
 Hier landen die im Rahmen der Selbstlernphase entstandenen Skripte und Ergebnisdateien.
 
