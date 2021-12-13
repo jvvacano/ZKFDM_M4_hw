@@ -12,6 +12,6 @@ Hier landen die im Rahmen der Selbstlernphase entstandenen Skripte und Ergebnisd
   - extractISSNs_Dates.sh _Bash-Skript, mit dem die Ergebnisdatei erzeugt wurde_
 
 - Aufgabe_3
-  - Aufgabe 3a - Merge Dataframe.ipynb _Jupyter-Notebook zur Übung „Merge Dataframe“_
-  - Aufgabe 3b - Group by.ipynb _Jupyter-Notebbok zur Übung „Groupby“_
+  - Aufgabe 3a - Merge Dataframe.ipynb _Jupyter-Notebook zur **Aufgabe 3 - Python**: Übung „Merge Dataframe“_
+  - Aufgabe 3b - Group by.ipynb _Jupyter-Notebook zur **Aufgabe 3 - Python**: Übung „Groupby“_
 
