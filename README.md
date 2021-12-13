@@ -7,7 +7,11 @@ Hier landen die im Rahmen der Selbstlernphase entstandenen Skripte und Ergebnisd
 - Ersteller: Johannes von Vacano
 
 ### enthält momentan:
-- 2021-11-26-Dates_and_ISSNs.tsv _Ergebnisdatei für **Aufgabe 2 - Shell**_
-- extractISSNs_Dates.sh _Bash-Skript, mit dem die Ergebnisdatei erzeugt wurde_
+- Aufgabe_2
+  - 2021-11-26-Dates_and_ISSNs.tsv _Ergebnisdatei für **Aufgabe 2 - Shell**_
+  - extractISSNs_Dates.sh _Bash-Skript, mit dem die Ergebnisdatei erzeugt wurde_
 
+- Aufgabe_3
+  - Aufgabe 3a - Merge Dataframe.ipynb _Jupyter-Notebook zur Übung „Merge Dataframe“_
+  - Aufgabe 3b - Group by.ipynb _Jupyter-Notebbok zur Übung „Groupby“_
 
