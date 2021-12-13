@@ -7,7 +7,7 @@ Hier landen die im Rahmen der Selbstlernphase entstandenen Skripte und Ergebnisd
 - Ersteller: Johannes von Vacano
 
 ### enthält momentan:
-- 2021-11-26-Dates_and_ISSNs.tsv Ergebnisdatei für **Aufgabe 2 - Shell**
-- extractISSNs_Dates.sh Bash-Skript, mit dem die Ergebnisdatei erzeugt wurde
+- 2021-11-26-Dates_and_ISSNs.tsv _Ergebnisdatei für **Aufgabe 2 - Shell**_
+- extractISSNs_Dates.sh _Bash-Skript, mit dem die Ergebnisdatei erzeugt wurde_
 
 
